@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/henna_artist/static/css/main.bb9b142a.css",
+    "main.js": "/henna_artist/static/js/main.a5762938.js",
+    "static/media/bg-henna-carousel-3.jpg": "/henna_artist/static/media/bg-henna-carousel-3.2f27b21b785c74f8b621.jpg",
+    "static/media/bg-henna-carousel-5.jpg": "/henna_artist/static/media/bg-henna-carousel-5.d8884d5aec131783ce12.jpg",
+    "static/media/bg-henna-carousel.jpg": "/henna_artist/static/media/bg-henna-carousel.00b1623dffbdc794b469.jpg",
+    "static/media/bootstrap-icons.woff?": "/henna_artist/static/media/bootstrap-icons.4753c5ba57962b4d7bf8.woff",
+    "static/media/bootstrap-icons.woff2?": "/henna_artist/static/media/bootstrap-icons.6d63d0501e5ed7b79dab.woff2",
+    "static/media/bg-henna-4.webp": "/henna_artist/static/media/bg-henna-4.feff02cba765506130f2.webp",
+    "static/media/henna-painted-hand.png": "/henna_artist/static/media/henna-painted-hand.c4b53ac11d24b58938df.png",
+    "static/media/card-4.webp": "/henna_artist/static/media/card-4.de1dfed7b94bf207bc17.webp",
+    "static/media/card-1.webp": "/henna_artist/static/media/card-1.d9c851166b04678ec388.webp",
+    "static/media/bg-henna-s2.webp": "/henna_artist/static/media/bg-henna-s2.031f6506865421cf97c7.webp",
+    "static/media/card-3.webp": "/henna_artist/static/media/card-3.41a55cd2499ebc556f55.webp",
+    "static/media/card-2.webp": "/henna_artist/static/media/card-2.acef1f3ea2581ce2bb38.webp",
+    "static/media/card-5.webp": "/henna_artist/static/media/card-5.fa34f11b519052a54f98.webp",
+    "index.html": "/henna_artist/index.html",
+    "main.bb9b142a.css.map": "/henna_artist/static/css/main.bb9b142a.css.map",
+    "main.a5762938.js.map": "/henna_artist/static/js/main.a5762938.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bb9b142a.css",
+    "static/js/main.a5762938.js"
+  ]
+}
